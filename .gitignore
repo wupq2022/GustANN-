@@ -1,0 +1,5 @@
+/build/
+/.cache/
+/tmp/
+/log/
+/scripts/__pycache__/
