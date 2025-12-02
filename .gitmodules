@@ -13,3 +13,6 @@
 [submodule "deps/DiskANN"]
 	path = deps/DiskANN
 	url = https://github.com/microsoft/DiskANN
+[submodule "deps/bam"]
+	path = deps/bam
+	url = https://github.com/ZaidQureshi/bam
